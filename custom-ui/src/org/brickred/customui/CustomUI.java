@@ -576,7 +576,7 @@ public class CustomUI extends Activity {
 		@Override
 		public View getView(final int position, View convertView, ViewGroup parent) {
 			// A ViewHolder keeps references to children views to avoid
-			// unneccessary
+			// unnecessary
 			// calls to findViewById() on each row.
 			ViewHolder holder;
 
