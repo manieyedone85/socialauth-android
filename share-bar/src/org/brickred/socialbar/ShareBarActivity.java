@@ -64,7 +64,7 @@ import android.widget.Toast;
  * responseListener and then automatically update status by updatestatus()
  * method.
  * 
- * It's Primarly use is to share message but developers can use to access other
+ * It's Primarily use is to share message but developers can use to access other
  * functionalites like getting profile , contacts , sharing images etc.
  * 
  * Now you can use share -bar to share message via email and mms.See example

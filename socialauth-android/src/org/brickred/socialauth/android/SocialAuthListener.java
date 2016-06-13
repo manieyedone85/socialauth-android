@@ -33,7 +33,7 @@ package org.brickred.socialauth.android;
 public interface SocialAuthListener<T> {
 
 	/**
-	 * Called when data recived from server. Executed by the thread that
+	 * Called when data received from server. Executed by the thread that
 	 * initiated the dialog.
 	 * 
 	 * @param Bundle
